@@ -1,0 +1,7 @@
+name = "TempPkg"
+uuid = "7c2ae950-b1b8-4709-99ed-a592f108425b"
+version = "0.1.0"
+authors = ["kapple <aaronjkaw@gmail.com>"]
+
+[workspace]
+projects = ["test"]
